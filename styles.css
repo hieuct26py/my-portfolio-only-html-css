@@ -308,7 +308,7 @@ p {
 
     .con1,
     .con2 {
-        max-width: 70%;
+        max-width: 81%;
         justify-content: center;
         align-items: center;
     }
@@ -341,7 +341,7 @@ p {
 
     .con-edu {
         flex-direction: column;
-        max-width: 70%;
+        max-width: 81%;
         justify-content: center;
         align-items: center;
     }
@@ -378,6 +378,11 @@ p {
 
     .position-blue {
         margin-bottom: 10px;
+    }
+
+    .con-skills {
+        max-width: 81%;
+        text-align: center;
     }
 }
 
